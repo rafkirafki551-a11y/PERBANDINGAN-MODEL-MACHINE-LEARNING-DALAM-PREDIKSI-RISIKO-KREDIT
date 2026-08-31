@@ -4,6 +4,12 @@ Machine Learning project for **credit risk classification** using **XGBoost** an
 
 This project compares both models to predict whether a borrower is likely to default on a loan and identifies the most influential factors affecting the prediction.
 
+## 🚀 Project Access
+
+Run and explore the complete Machine Learning workflow directly through Google Colab:
+
+👉 **[Open in Google Colab](https://colab.research.google.com/drive/1TdZhNwTsU--_LOUS2WzBafXOuiTGh_YP?usp=sharing)**
+
 ## 🎯 Objectives
 
 - Implement XGBoost and Random Forest for credit risk classification
